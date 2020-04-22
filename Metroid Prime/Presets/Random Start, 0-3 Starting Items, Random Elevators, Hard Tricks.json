@@ -1,0 +1,86 @@
+{
+	"Random Start, 0-3 Starting Items, Random Elevators, Hard Tricks": {
+		"excludeLocations": [],
+		"itemOverrides": [
+			{
+				"count": 1,
+				"name": "Charge Beam",
+				"state": "vanilla"
+			}
+		],
+		"romSettings": {
+			"hideItemModels": false,
+			"skipFrigate": true,
+			"skipHudPopups": true
+		},
+		"rules": {
+			"artifactLocationHints": true,
+			"elevatorShuffle": true,
+			"goal": "artifact-collection",
+			"goalArtifacts": 6,
+			"heatProtection": "varia-only",
+			"pointOfNoReturnItems": "allow-visible",
+			"randomStartingItems": {
+				"maximum": 3,
+				"minimum": 0
+			},
+			"startingArea": -1,
+			"suitDamageReduction": "progressive"
+		},
+		"tricks": [
+			"alcoveNoItems",
+			"arborChamberWithoutPlasma",
+			"chozoIceTempleItemWithIS",
+			"climbFrigateCrashSite",
+			"climbFrozenPikeWithoutBombs",
+			"climbObservatoryWithoutBoost",
+			"climbOreProcessingWithoutGrappleSpider",
+			"climbPhazonProcessingCenterWithoutSpider",
+			"climbRuinedCourtyardWithoutBoostSpider",
+			"climbTowerOfLightWithoutMissiles",
+			"crossMagmaPoolSuitless",
+			"crossMagmaPoolWithoutGrapple",
+			"crossTwinFiresTunnelSuitless",
+			"crossTwinFiresTunnelWithoutSpider",
+			"crosswayItemFewerReqs",
+			"destroyBombCoversWithPowerBombs",
+			"enableMainPlazaLedgeDoor",
+			"exitQuarantineCaveRuinedCourtyardSlopeJump",
+			"fieryShoresAccessWithoutMorphGrapple",
+			"frigateCrashSiteItemWithoutGravitySuit",
+			"furnaceAccessWithoutSpider",
+			"furnaceSpiderTrackItemHBJ",
+			"furnaceSpiderTrackItemSpaceJumpBombs",
+			"gravityChamberLedgeItemWithoutGrapplePlasma",
+			"hallOfTheEldersBombSlotsWithoutSpider",
+			"hallOfTheEldersItemsWithIS",
+			"iceBeamBeforeFlaahgraOobWallcrawl",
+			"eliteResearchInfiniteBoostClip",
+			"magmaPoolItemWithIS",
+			"mainPlazaItemsOnlySpaceJump",
+			"mainQuarryItemWithoutSpider",
+			"phazonMiningTunnelItemWithoutPhazonSuit",
+			"phendranaTransportSouthToTransportAccessWithoutSpider",
+			"plasmaProcessingItemWithoutGrappleSpider",
+			"plasmaProcessingFromMagmoorWorkstationOob",
+			"quarantineMonitorDash",
+			"trainingChamberAndAccessOobWallcrawl",
+			"reflectingPoolAccessWithoutWaveBeam",
+			"removePhendranaDepthsGrappleReqs",
+			"removeThermalReqs",
+			"removeXrayReqs",
+			"rootCaveArborChamberWithoutGrapple",
+			"ruinedFountainItemFlaahgraSkip",
+			"ruinedNurseryWithoutBombs",
+			"shoreTunnelEscapeWithoutSpaceJump",
+			"spiderlessShafts",
+			"suitlessMagmoorRun",
+			"towerChamberNoGravity",
+			"upperRuinedShrineTowerOfLightFewerAccessReqs",
+			"warriorShrineWithoutBoost",
+			"wateryHallUnderwaterFlaahgraSkip",
+			"wateryHallUnderwaterSlopeJump",
+			"waveSunOobWallcrawlWithIS"
+		]
+	}
+}
