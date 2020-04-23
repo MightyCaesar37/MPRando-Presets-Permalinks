@@ -19,5 +19,3 @@ How to import Metroid Prime Randomizer Presets:
 Images of What Each Preset Looks Like: 
 
 [Random Start, 0-3 Starting Items, Random Elevators, Hard Tricks](https://imgur.com/a/hN7d5OC)
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hN7d5OC"><a href="//imgur.com/a/hN7d5OC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
