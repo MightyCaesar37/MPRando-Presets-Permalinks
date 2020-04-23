@@ -15,3 +15,7 @@ How to import Metroid Prime Randomizer Presets:
 4.) Navigate to where you saved the preset file on your computer, select it, and press "Open"
 
 5.) Congratulations you've imported the preset, you can now select it in the drop down menu below "Choose a Preset:"
+
+Images of What Each Preset Looks Like: 
+
+[Random Start, 0-3 Starting Items, Random Elevators, Hard Tricks](https://imgur.com/a/hN7d5OC)
